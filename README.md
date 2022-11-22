@@ -61,17 +61,3 @@
 ### 后台设置-显示设置
 ![后台设置-显示设置](https://cdn.jun6.net/uPic/2022/08/13/view-setting.png)
 
-
-## 支持作者
-
-如果本项目对你有帮助，请作者喝杯咖啡吧。
-
-<img src="https://cdn.jun6.net/2021/03/27/152704e91f13d.png" width="400" alt="赞助我">
-
-## Status
-
-![Alt](https://repobeats.axiom.co/api/embed/580333f83b91087e713f15497e6433c50e1da090.svg "Repobeats analytics image")
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=zfile-dev/zfile&type=Date)](https://star-history.com/#zfile-dev/zfile&Date)
